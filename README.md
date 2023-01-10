@@ -9,7 +9,7 @@ void main() => runApp(const MaterialApp(
 
 ## Development Setup
 ```
-git clone https://github.com/afifudinx/flutter-video-call.git
+git clone https://github.com/afifcodes/flutter-video-call.git
 cd flutter-video-call
 flutter pub get
 flutter run
@@ -20,6 +20,6 @@ flutter run
 
 ## Links
 
-* [Website](https://afifudinx.vercel.app/flutter)
+* [Website](https://afifcodes.vercel.app/flutter)
 * [Youtube channel](https://youtube.com/idnflutter)
 * [Instagram](https://instagram.com/idnflutter)
