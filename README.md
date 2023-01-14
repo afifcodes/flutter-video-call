@@ -9,8 +9,8 @@ void main() => runApp(const MaterialApp(
 
 ## Development Setup
 ```
-git clone https://github.com/afifcodes/flutter-video-call.git
-cd flutter-video-call
+git clone https://github.com/afifcodes/flutter-video-call-ui.git
+cd flutter-video-call-ui
 flutter pub get
 flutter run
 ```
